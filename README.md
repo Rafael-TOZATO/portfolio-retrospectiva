@@ -1,6 +1,6 @@
 <div align="center">
 
-![Portfólio Retrospectiva Banner](./banner-portfólio-retrospectiva.png)
+<img src="./banner-portfólio-retrospectiva.png" alt="Portfólio Retrospectiva Banner" width="100%" />
 
 # 🚀 Portfólio Retrospectiva | Da Bancada à Engenharia 4.0
 
@@ -58,4 +58,18 @@ A publicação no LinkedIn faz uma travessia completa sobre as entregas do ecoss
 
 - 🌐 **Dev Hub (PWA):** [tozato-dev-hub.vercel.app](https://tozato-dev-hub.vercel.app)
 - 💼 **H-Folio:** [h-folio-psi.vercel.app](https://h-folio-psi.vercel.app)
-- 📊 **Aurora BI:**
+- 📊 **Aurora BI:** [aurora-bi-dio.lovable.app](https://aurora-bi-dio.lovable.app)
+- 🤖 **Carrossel de Portfólio AI:** [Acessar Gerador](https://v0.app/tozato-ai-chat/chat/carrossel-de-portfolio-lv872wfyp0O)
+
+---
+
+#### 📬 Contatos e Conexões
+
+- 💼 **LinkedIn:** [rafaeltozato81](https://www.linkedin.com/in/rafaeltozato81)
+- 🐙 **GitHub:** [Rafael-TOZATO](https://github.com/Rafael-TOZATO)
+- ✍️ **Medium:** [@ornelas.tozato](https://medium.com/@ornelas.tozato)
+- 🌐 **Dev Hub:** [tozato-dev-hub.vercel.app](https://tozato-dev-hub.vercel.app)
+- 🌐 **H-Folio:** [h-folio-psi.vercel.app](https://h-folio-psi.vercel.app)
+- 🚀 **Aurora BI:** [aurora-bi-dio.lovable.app](https://aurora-bi-dio.lovable.app)
+- 📜 **Microsoft Learn:** [Transcrito Oficial](https://learn.microsoft.com/pt-br/users/rafaelornelastozato-2209/transcript/dzo2wizrkx2853)
+- 
