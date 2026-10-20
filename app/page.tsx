@@ -3,7 +3,6 @@
 import React from 'react'
 import { ExternalLink, Github } from 'lucide-react'
 
-// Estrutura de dados dos projetos cadastrados no Hub
 const projects = [
   {
     id: "retrospectiva",
