@@ -3,8 +3,8 @@ import type { Metadata, Viewport } from 'next'
 import './globals.css'
 
 export const metadata: Metadata = {
-  title: 'v0 App',
-  description: 'Created with v0',
+  title: 'Da Bancada à Engenharia 4.0 | Rafael Tozato',
+  description: 'Retrospectiva profissional sobre Governança 4.0, IA, automação, dados e engenharia.',
   generator: 'v0.app',
   icons: {
     icon: [
