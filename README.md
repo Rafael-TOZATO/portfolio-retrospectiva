@@ -1,60 +1,20 @@
 <div align="center">
 
-<img src="./banner-port%C3%B3lio-retrospectiva.png" alt="Portfólio Retrospectiva Banner" width="100%" />
+<img src="./banner-retrospectiva.png" alt="Portfólio Retrospectiva Banner" width="100%" />
 
 # 🚀 Portfólio Retrospectiva | Da Bancada à Engenharia 4.0
 
-
-
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-
-
-
-
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-
-
-
-
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-
-
-
-
 ![n8n](https://img.shields.io/badge/n8n-FF6584?style=for-the-badge&logo=n8n&logoColor=white)
-
-
-
-
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-
-
-
-
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 
-
-
-[
-
-![License](https://img.shields.io/badge/License-MIT-blue.svg?style=flat-square)
-
-](https://github.com/Rafael-TOZATO)
-[
-
-![Security Scan](https://img.shields.io/badge/CodeQL-Passed-brightgreen?style=flat-square&logo=githubactions)
-
-](https://github.com/Rafael-TOZATO)
-[
-
-![Quality Standard](https://img.shields.io/badge/ISO%209001-Compliant-blue?style=flat-square)
-
-](https://github.com/Rafael-TOZATO)
-[
-
-![Lean Six Sigma](https://img.shields.io/badge/Lean_Six_Sigma-Green_Belt-emerald?style=flat-square)
-
-](https://github.com/Rafael-TOZATO)
+[![License](https://img.shields.io/badge/License-MIT-blue.svg?style=flat-square)](https://github.com/Rafael-TOZATO)
+[![Security Scan](https://img.shields.io/badge/CodeQL-Passed-brightgreen?style=flat-square&logo=githubactions)](https://github.com/Rafael-TOZATO)
+[![Quality Standard](https://img.shields.io/badge/ISO%209001-Compliant-blue?style=flat-square)](https://github.com/Rafael-TOZATO)
+[![Lean Six Sigma](https://img.shields.io/badge/Lean_Six_Sigma-Green_Belt-emerald?style=flat-square)](https://github.com/Rafael-TOZATO)
 
 </div>
 
@@ -112,3 +72,4 @@ A publicação no LinkedIn faz uma travessia completa sobre as entregas do ecoss
 - 🌐 **H-Folio:** [h-folio-psi.vercel.app](https://h-folio-psi.vercel.app)
 - 🚀 **Aurora BI:** [aurora-bi-dio.lovable.app](https://aurora-bi-dio.lovable.app)
 - 📜 **Microsoft Learn:** [Transcrito Oficial](https://learn.microsoft.com/pt-br/users/rafaelornelastozato-2209/transcript/dzo2wizrkx2853)
+- 
