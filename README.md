@@ -72,4 +72,4 @@ A publicação no LinkedIn faz uma travessia completa sobre as entregas do ecoss
 - 🌐 **H-Folio:** [h-folio-psi.vercel.app](https://h-folio-psi.vercel.app)
 - 🚀 **Aurora BI:** [aurora-bi-dio.lovable.app](https://aurora-bi-dio.lovable.app)
 - 📜 **Microsoft Learn:** [Transcrito Oficial](https://learn.microsoft.com/pt-br/users/rafaelornelastozato-2209/transcript/dzo2wizrkx2853)
-- 
+  
