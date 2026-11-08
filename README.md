@@ -54,22 +54,24 @@ A publicação no LinkedIn faz uma travessia completa sobre as entregas do ecoss
 
 ---
 
-## 🔗 Projetos e Aplicações em Destaque
+## 💻 PROJETOS E PORTFÓLIOS
+- **App Ecosystem:** [tozato-ai-core.vercel.app](https://tozato-ai-core.vercel.app)
+- **H-Folio:** [h-folio-l0.vercel.app](https://h-folio-l0.vercel.app)
 
-- 🌐 **Dev Hub (PWA):** [tozato-dev-hub.vercel.app](https://tozato-dev-hub.vercel.app)
-- 💼 **H-Folio:** [h-folio-psi.vercel.app](https://h-folio-psi.vercel.app)
-- 📊 **Aurora BI:** [aurora-bi-dio.lovable.app](https://aurora-bi-dio.lovable.app)
-- 🤖 **Carrossel de Portfólio AI:** [Acessar Gerador](https://v0.app/tozato-ai-chat/chat/carrossel-de-portfolio-lv872wfyp0O)
+## 🐙 CÓDIGO E REPOSITÓRIOS
+- **GitHub:** [github.com/Rafael-TOZATO](https://github.com/Rafael-TOZATO)
 
----
+## ✍️ ARTIGOS E PUBLICAÇÕES
+- **Medium:** [medium.com/@ornelas.tozato](https://medium.com/@ornelas.tozato)
 
-#### 📬 Contatos e Conexões
-
-- 💼 **LinkedIn:** [rafaeltozato81](https://www.linkedin.com/in/rafaeltozato81)
-- 🐙 **GitHub:** [Rafael-TOZATO](https://github.com/Rafael-TOZATO)
-- ✍️ **Medium:** [@ornelas.tozato](https://medium.com/@ornelas.tozato)
-- 🌐 **Dev Hub:** [tozato-dev-hub.vercel.app](https://tozato-dev-hub.vercel.app)
-- 🌐 **H-Folio:** [h-folio-psi.vercel.app](https://h-folio-psi.vercel.app)
+## 📬 CONTATOS
+- **E-mail:** ornelas.tozato@gmail.com
+- **LinkedIn:** [rafaeltozato81](https://www.linkedin.com/in/rafaeltozato81)
+- **GitHub:** [Rafael-TOZATO](https://github.com/Rafael-TOZATO)
+- **Medium:** [@ornelas.tozato](https://medium.com/@ornelas.tozato)
+- **Dev Hub:** [tozato-ai-core.vercel.app](https://tozato-ai-core.vercel.app)
+- **H-Folio:** [h-folio-l0.vercel.app](https://h-folio-l0.vercel.app)
+- **Microsoft Learn:** [rafaelornelastozato-2209](https://learn.microsoft.com/pt-br/users/rafaelornelastozato-2209)
 - 🚀 **Aurora BI:** [aurora-bi-dio.lovable.app](https://aurora-bi-dio.lovable.app)
 - 📜 **Microsoft Learn:** [Transcrito Oficial](https://learn.microsoft.com/pt-br/users/rafaelornelastozato-2209/transcript/dzo2wizrkx2853)
   
