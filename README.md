@@ -22,12 +22,16 @@
 
 ---
 
+---
+
 ## 📌 Sobre o Repositório
 
 Este repositório consolida a **Retrospectiva Técnica e Profissional de Rafael Ornelas Tozato**, integrando mais de **35 repositórios públicos**, automações inteligentes, engenharia de dados, dashboards em Power BI e aplicações web sob o conceito de **Governança 4.0 & Inovação**.
 
 > 📥 **Carrossel do LinkedIn (PDF / Dashboard):**  
 > Para visualizar o documento completo interativo e os slides da publicação, [**baixe o arquivo PDF da Retrospectiva aqui**](./Carrossel_Retrospectiva_GitHub_Rafael_Tozato.pdf).
+
+---
 
 ---
 
@@ -47,6 +51,8 @@ Este repositório consolida a **Retrospectiva Técnica e Profissional de Rafael 
 
 ---
 
+---
+
 ## 📄 Publicação em Carrossel (LinkedIn)
 
 A publicação no LinkedIn faz uma travessia completa sobre as entregas do ecossistema:
@@ -57,6 +63,8 @@ A publicação no LinkedIn faz uma travessia completa sobre as entregas do ecoss
 5. **Engenharia de Dados:** Arquitetura orientada a eventos para pagamentos.
 6. **Java & Padrões GoF:** Código limpo, reutilizável e escalável.
 7. **Governança 4.0:** Consolidado de mais de 18 certificações oficiais (760 horas de estudo).
+
+---
 
 ---
 
@@ -84,32 +92,23 @@ O repositório mantém controles de Governança 4.0 para assegurar integridade d
 
 ---
 
-## 💻 PROJETOS E PORTFÓLIOS
+---
+
+## 📬 CONTATOS E PERFIS
+
 - **App Ecosystem:** [tozato-ai-core.vercel.app](https://tozato-ai-core.vercel.app)
 - **H-Folio:** [h-folio-l0.vercel.app](https://h-folio-l0.vercel.app)
 
 ---
-
-## 🐙 CÓDIGO E REPOSITÓRIOS
 - **GitHub:** [github.com/Rafael-TOZATO](https://github.com/Rafael-TOZATO)
 
----
-
-## ✍️ ARTIGOS E PUBLICAÇÕES
 - **Medium:** [medium.com/@ornelas.tozato](https://medium.com/@ornelas.tozato)
 
----
-
-## 📬 CONTATOS
 - **E-mail:** ornelas.tozato@gmail.com
 - **LinkedIn:** [rafaeltozato81](https://www.linkedin.com/in/rafaeltozato81)
 - **GitHub:** [Rafael-TOZATO](https://github.com/Rafael-TOZATO)
 - **Medium:** [@ornelas.tozato](https://medium.com/@ornelas.tozato)
 - **Dev Hub:** [tozato-ai-core.vercel.app](https://tozato-ai-core.vercel.app)
-- **H-Folio:** [h-folio-l0.vercel.app](https://h-folio-l0.vercel.app)
 - **Microsoft Learn:** [rafaelornelastozato-2209](https://learn.microsoft.com/pt-br/users/rafaelornelastozato-2209)
 - 🚀 **Aurora BI:** [aurora-bi-dio.lovable.app](https://aurora-bi-dio.lovable.app)
 - 📜 **Microsoft Learn:** [Transcrito Oficial](https://learn.microsoft.com/pt-br/users/rafaelornelastozato-2209/transcript/dzo2wizrkx2853)
-  
-
----
