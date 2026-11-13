@@ -75,3 +75,24 @@ A publicação no LinkedIn faz uma travessia completa sobre as entregas do ecoss
 - 🚀 **Aurora BI:** [aurora-bi-dio.lovable.app](https://aurora-bi-dio.lovable.app)
 - 📜 **Microsoft Learn:** [Transcrito Oficial](https://learn.microsoft.com/pt-br/users/rafaelornelastozato-2209/transcript/dzo2wizrkx2853)
   
+
+
+---
+
+## Governança 4.0 — Segurança e Qualidade
+
+O repositório mantém controles de Governança 4.0 para assegurar integridade dos artefatos, rastreabilidade das alterações e segurança do ciclo de entrega.
+
+- **Quality Gate:** instalação reproduzível, auditoria de dependências, verificação TypeScript e build de produção.
+- **SAST:** análise de JavaScript e TypeScript com GitHub CodeQL e consultas de segurança estendida.
+- **Segurança de segredos:** varredura do histórico Git com Gitleaks Action v3.0.0.
+- **Menor privilégio:** permissões mínimas e checkout sem persistência de credenciais.
+- **Rastreabilidade:** resultados de CI/CD e histórico de execução registrados no GitHub Actions.
+
+<div align="center">
+
+[![Quality Gate](https://img.shields.io/github/actions/workflow/status/Rafael-TOZATO/portfolio-retrospectiva/quality-gate.yml?branch=main&label=Quality%20Gate)](https://github.com/Rafael-TOZATO/portfolio-retrospectiva/actions/workflows/quality-gate.yml)
+[![Gitleaks](https://img.shields.io/github/actions/workflow/status/Rafael-TOZATO/portfolio-retrospectiva/gitleaks.yml?branch=main&label=Gitleaks)](https://github.com/Rafael-TOZATO/portfolio-retrospectiva/actions/workflows/gitleaks.yml)
+[![CodeQL](https://img.shields.io/github/actions/workflow/status/Rafael-TOZATO/portfolio-retrospectiva/codeql.yml?branch=main&label=CodeQL)](https://github.com/Rafael-TOZATO/portfolio-retrospectiva/actions/workflows/codeql.yml)
+
+</div>
