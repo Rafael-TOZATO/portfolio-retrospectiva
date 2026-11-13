@@ -20,12 +20,16 @@
 
 ---
 
+---
+
 ## 📌 Sobre o Repositório
 
 Este repositório consolida a **Retrospectiva Técnica e Profissional de Rafael Ornelas Tozato**, integrando mais de **35 repositórios públicos**, automações inteligentes, engenharia de dados, dashboards em Power BI e aplicações web sob o conceito de **Governança 4.0 & Inovação**.
 
 > 📥 **Carrossel do LinkedIn (PDF / Dashboard):**  
 > Para visualizar o documento completo interativo e os slides da publicação, [**baixe o arquivo PDF da Retrospectiva aqui**](./Carrossel_Retrospectiva_GitHub_Rafael_Tozato.pdf).
+
+---
 
 ---
 
@@ -38,6 +42,8 @@ Este repositório consolida a **Retrospectiva Técnica e Profissional de Rafael 
 - 📱 **Aplicações & PWA (4 repositórios):** Hubs de projetos, assistentes de finanças (FinanCIA) e geradores de currículo ATS.
 - ☕ **Java & Padrões (4 repositórios):** Implementação de Design Patterns GoF com Spring Framework.
 - 🗄️ **Engenharia de Dados (2 repositórios):** Pipelines de pagamentos em tempo real com CDC (Debezium), Flink SQL e MySQL.
+
+---
 
 ---
 
@@ -54,15 +60,45 @@ A publicação no LinkedIn faz uma travessia completa sobre as entregas do ecoss
 
 ---
 
+---
+
+## Governança 4.0 — Segurança e Qualidade
+
+Este repositório adota controles automatizados de Governança 4.0 para assegurar integridade dos artefatos e do código, rastreabilidade das alterações, gestão de dependências e prevenção de exposição de credenciais. Os controles são aplicados conforme a natureza técnica e os componentes efetivamente mantidos no projeto.
+
+- **Quality Gate:** validação automatizada do escopo do repositório, incluindo verificações de integridade, testes, análise estática, tipagem ou build quando aplicáveis.
+- **Segurança de segredos:** varredura do histórico Git com Gitleaks Action v3.0.0.
+- **SAST:** análise com GitHub CodeQL para linguagens suportadas e presentes no código-fonte.
+- **Dependências:** monitoramento automatizado e revisão de vulnerabilidades conforme os manifests e lockfiles existentes.
+- **Menor privilégio:** permissões mínimas nos workflows e checkout sem persistência desnecessária de credenciais.
+- **Rastreabilidade:** commits, execuções e resultados dos controles permanecem registrados no GitHub Actions.
+
+### Controles específicos do repositório
+
+O repositório mantém controles de Governança 4.0 para assegurar integridade dos artefatos, rastreabilidade das alterações e segurança do ciclo de entrega.
+- **Quality Gate:** instalação reproduzível, auditoria de dependências, verificação TypeScript e build de produção.
+- **SAST:** análise de JavaScript e TypeScript com GitHub CodeQL e consultas de segurança estendida.
+- **Segurança de segredos:** varredura do histórico Git com Gitleaks Action v3.0.0.
+- **Menor privilégio:** permissões mínimas e checkout sem persistência de credenciais.
+- **Rastreabilidade:** resultados de CI/CD e histórico de execução registrados no GitHub Actions.
+
+---
+
 ## 💻 PROJETOS E PORTFÓLIOS
 - **App Ecosystem:** [tozato-ai-core.vercel.app](https://tozato-ai-core.vercel.app)
 - **H-Folio:** [h-folio-l0.vercel.app](https://h-folio-l0.vercel.app)
 
+---
+
 ## 🐙 CÓDIGO E REPOSITÓRIOS
 - **GitHub:** [github.com/Rafael-TOZATO](https://github.com/Rafael-TOZATO)
 
+---
+
 ## ✍️ ARTIGOS E PUBLICAÇÕES
 - **Medium:** [medium.com/@ornelas.tozato](https://medium.com/@ornelas.tozato)
+
+---
 
 ## 📬 CONTATOS
 - **E-mail:** ornelas.tozato@gmail.com
@@ -76,23 +112,4 @@ A publicação no LinkedIn faz uma travessia completa sobre as entregas do ecoss
 - 📜 **Microsoft Learn:** [Transcrito Oficial](https://learn.microsoft.com/pt-br/users/rafaelornelastozato-2209/transcript/dzo2wizrkx2853)
   
 
-
 ---
-
-## Governança 4.0 — Segurança e Qualidade
-
-O repositório mantém controles de Governança 4.0 para assegurar integridade dos artefatos, rastreabilidade das alterações e segurança do ciclo de entrega.
-
-- **Quality Gate:** instalação reproduzível, auditoria de dependências, verificação TypeScript e build de produção.
-- **SAST:** análise de JavaScript e TypeScript com GitHub CodeQL e consultas de segurança estendida.
-- **Segurança de segredos:** varredura do histórico Git com Gitleaks Action v3.0.0.
-- **Menor privilégio:** permissões mínimas e checkout sem persistência de credenciais.
-- **Rastreabilidade:** resultados de CI/CD e histórico de execução registrados no GitHub Actions.
-
-<div align="center">
-
-[![Quality Gate](https://img.shields.io/github/actions/workflow/status/Rafael-TOZATO/portfolio-retrospectiva/quality-gate.yml?branch=main&label=Quality%20Gate)](https://github.com/Rafael-TOZATO/portfolio-retrospectiva/actions/workflows/quality-gate.yml)
-[![Gitleaks](https://img.shields.io/github/actions/workflow/status/Rafael-TOZATO/portfolio-retrospectiva/gitleaks.yml?branch=main&label=Gitleaks)](https://github.com/Rafael-TOZATO/portfolio-retrospectiva/actions/workflows/gitleaks.yml)
-[![CodeQL](https://img.shields.io/github/actions/workflow/status/Rafael-TOZATO/portfolio-retrospectiva/codeql.yml?branch=main&label=CodeQL)](https://github.com/Rafael-TOZATO/portfolio-retrospectiva/actions/workflows/codeql.yml)
-
-</div>
