@@ -94,6 +94,14 @@ O repositório mantém controles de Governança 4.0 para assegurar integridade d
 
 ---
 
+<div align="center">
+
+[![Quality Gate](https://img.shields.io/github/actions/workflow/status/Rafael-TOZATO/portfolio-retrospectiva/quality-gate.yml?branch=main&label=Quality%20Gate)](https://github.com/Rafael-TOZATO/portfolio-retrospectiva/actions/workflows/quality-gate.yml)
+[![Gitleaks](https://img.shields.io/github/actions/workflow/status/Rafael-TOZATO/portfolio-retrospectiva/gitleaks.yml?branch=main&label=Gitleaks)](https://github.com/Rafael-TOZATO/portfolio-retrospectiva/actions/workflows/gitleaks.yml)
+[![CodeQL](https://img.shields.io/github/actions/workflow/status/Rafael-TOZATO/portfolio-retrospectiva/codeql.yml?branch=main&label=CodeQL)](https://github.com/Rafael-TOZATO/portfolio-retrospectiva/actions/workflows/codeql.yml)
+
+</div>
+
 ## 📬 CONTATOS E PERFIS
 
 - **App Ecosystem:** [tozato-ai-core.vercel.app](https://tozato-ai-core.vercel.app)
