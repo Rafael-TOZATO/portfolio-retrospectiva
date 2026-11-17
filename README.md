@@ -20,20 +20,12 @@
 
 ---
 
----
-
----
-
 ## 📌 Sobre o Repositório
 
 Este repositório consolida a **Retrospectiva Técnica e Profissional de Rafael Ornelas Tozato**, integrando mais de **35 repositórios públicos**, automações inteligentes, engenharia de dados, dashboards em Power BI e aplicações web sob o conceito de **Governança 4.0 & Inovação**.
 
 > 📥 **Carrossel do LinkedIn (PDF / Dashboard):**  
 > Para visualizar o documento completo interativo e os slides da publicação, [**baixe o arquivo PDF da Retrospectiva aqui**](./Carrossel_Retrospectiva_GitHub_Rafael_Tozato.pdf).
-
----
-
----
 
 ---
 
@@ -49,10 +41,6 @@ Este repositório consolida a **Retrospectiva Técnica e Profissional de Rafael 
 
 ---
 
----
-
----
-
 ## 📄 Publicação em Carrossel (LinkedIn)
 
 A publicação no LinkedIn faz uma travessia completa sobre as entregas do ecossistema:
@@ -63,10 +51,6 @@ A publicação no LinkedIn faz uma travessia completa sobre as entregas do ecoss
 5. **Engenharia de Dados:** Arquitetura orientada a eventos para pagamentos.
 6. **Java & Padrões GoF:** Código limpo, reutilizável e escalável.
 7. **Governança 4.0:** Consolidado de mais de 18 certificações oficiais (760 horas de estudo).
-
----
-
----
 
 ---
 
@@ -89,8 +73,6 @@ O repositório mantém controles de Governança 4.0 para assegurar integridade d
 - **Segurança de segredos:** varredura do histórico Git com Gitleaks Action v3.0.0.
 - **Menor privilégio:** permissões mínimas e checkout sem persistência de credenciais.
 - **Rastreabilidade:** resultados de CI/CD e histórico de execução registrados no GitHub Actions.
-
----
 
 ---
 
