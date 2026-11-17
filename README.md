@@ -18,8 +18,6 @@
 
 </div>
 
----
-
 ## 📌 Sobre o Repositório
 
 Este repositório consolida a **Retrospectiva Técnica e Profissional de Rafael Ornelas Tozato**, integrando mais de **35 repositórios públicos**, automações inteligentes, engenharia de dados, dashboards em Power BI e aplicações web sob o conceito de **Governança 4.0 & Inovação**.
@@ -39,8 +37,6 @@ Este repositório consolida a **Retrospectiva Técnica e Profissional de Rafael 
 - ☕ **Java & Padrões (4 repositórios):** Implementação de Design Patterns GoF com Spring Framework.
 - 🗄️ **Engenharia de Dados (2 repositórios):** Pipelines de pagamentos em tempo real com CDC (Debezium), Flink SQL e MySQL.
 
----
-
 ## 📄 Publicação em Carrossel (LinkedIn)
 
 A publicação no LinkedIn faz uma travessia completa sobre as entregas do ecossistema:
@@ -51,8 +47,6 @@ A publicação no LinkedIn faz uma travessia completa sobre as entregas do ecoss
 5. **Engenharia de Dados:** Arquitetura orientada a eventos para pagamentos.
 6. **Java & Padrões GoF:** Código limpo, reutilizável e escalável.
 7. **Governança 4.0:** Consolidado de mais de 18 certificações oficiais (760 horas de estudo).
-
----
 
 ## Governança 4.0 — Segurança e Qualidade
 
@@ -73,8 +67,6 @@ O repositório mantém controles de Governança 4.0 para assegurar integridade d
 - **Segurança de segredos:** varredura do histórico Git com Gitleaks Action v3.0.0.
 - **Menor privilégio:** permissões mínimas e checkout sem persistência de credenciais.
 - **Rastreabilidade:** resultados de CI/CD e histórico de execução registrados no GitHub Actions.
-
----
 
 <div align="center">
 
