@@ -25,8 +25,6 @@ Este repositório consolida a **Retrospectiva Técnica e Profissional de Rafael 
 > 📥 **Carrossel do LinkedIn (PDF / Dashboard):**  
 > Para visualizar o documento completo interativo e os slides da publicação, [**baixe o arquivo PDF da Retrospectiva aqui**](./Carrossel_Retrospectiva_GitHub_Rafael_Tozato.pdf).
 
----
-
 ## 📊 Panorâmica do Ecossistema (35 Repositórios em 7 Frentes)
 
 - 🛠️ **Portfólio & Governança (8 repositórios):** Padrões ISO 9001, Matriz de Competências e Governança 4.0.
@@ -75,8 +73,6 @@ O repositório mantém controles de Governança 4.0 para assegurar integridade d
 [![CodeQL](https://img.shields.io/github/actions/workflow/status/Rafael-TOZATO/portfolio-retrospectiva/codeql.yml?branch=main&label=CodeQL)](https://github.com/Rafael-TOZATO/portfolio-retrospectiva/actions/workflows/codeql.yml)
 
 </div>
-
----
 
 ## 📬 CONTATOS E PERFIS
 
